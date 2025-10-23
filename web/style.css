@@ -1,0 +1,18 @@
+body {
+    font-family: Segoe UI, sans-serif;
+    background: #0d1117;
+    color: #e6edf3;
+    text-align: center;
+    padding: 60px;
+}
+button {
+    background: #238636;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover {
+    background: #2ea043;
+}
