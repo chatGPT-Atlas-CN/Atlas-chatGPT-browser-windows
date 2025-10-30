@@ -1,3 +1,4 @@
 # Ideas
 Update compiler plugin for better code generation
 Record load test data
+Set up automatic code formatting on save
