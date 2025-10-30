@@ -1,0 +1,2 @@
+# Ideas
+Update compiler plugin for better code generation
